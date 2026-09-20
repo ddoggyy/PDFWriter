@@ -1,4 +1,4 @@
-# PDF Pen
+# PDFWriter
 
 Windows 2-in-1 노트북(LG Gram 360 등)에서 **디지털 펜으로 PDF에 직접 필기**하는 가벼운 PDF 필기 프로그램입니다.
 
