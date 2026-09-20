@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/PdfPen.Tests/PdfPen.Tests.csproj" />
+  </Folder>
+  <Project Path="PdfPen/PdfPen.csproj" />
+</Solution>

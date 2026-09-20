@@ -1,0 +1,43 @@
+# 빌드 결과물
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+*.dll
+*.exe
+*.pdb
+
+# 테스트 결과
+TestResults/
+*.trx
+coverage*.xml
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.rsuser
+*.userprefs
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# PDF Pen 저장 중 생기는 임시/백업 파일
+*.pdfpen.tmp
+*.pdfpen.bak
+
+# 테스트용 개인 PDF (필요한 샘플은 예외로 추가)
+*.pdf
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Claude Code 로컬 설정
+.claude/
